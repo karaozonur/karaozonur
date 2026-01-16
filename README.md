@@ -2,9 +2,7 @@
 
 ###
 
-<p align="left">My name is Onur Karaöz and I'm a .Net Dev. / Information Technology from Turkiye</p>
 
-###
 
 <h2 align="left">About me</h2>
 
